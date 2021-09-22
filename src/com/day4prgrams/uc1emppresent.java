@@ -1,6 +1,6 @@
 package com.day4prgrams;
 
-	public class uc1
+	public class uc1emppresent
 	{
 		public static void main(String []args)
 		{

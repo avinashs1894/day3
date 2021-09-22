@@ -1,6 +1,6 @@
 package com.day4prgrams;
 
-public class uc4 {
+public class uc4ratperhour {
 	
 		public static final int is_part_time = 1;
 		public static final int is_full_time = 2;

@@ -1,6 +1,6 @@
 package com.day4prgrams;
 
-public class uc3 {
+public class uc3empparttime {
 	public static void main(String []args) {
 	int is_part_time=1;
 	int is_full_time=2;
